@@ -15,14 +15,24 @@
 
 **Thoughts**: Glad to be almost done with this chapter. 
 
-**Link(s) to work**:
+**Link to work**:
 1. [Javascript Algorithms & Data Structures: Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript)
 
-### Day 3: May 25, 2021 (Wed)
+### Day 3: May 26, 2021 (Wed)
 
 **Today's Progress**: Halfway through ES6 course on fCC for Javascript. 
 
 **Thoughts**: Learned a few new vocabulary terms like Destructuring Assignments. Looking forward to reaching projects portion of this course!
 
-**Link(s) to work**:
+**Link to work**:
 1. [Javascript Algorithms & Data Structures: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
+
+
+### Day 4: May 27, 2021 (Thurs)
+
+**Today's Progress**: Worked on constructors, objects, classes, getters, and setters, creating module scripts, exporting and importing functions in a javascript file to share it with other files in App. Import everything and export default, import a default export. Javascript Asynchronous Promise: (resolve, reject). 
+
+**Thoughts**: My need to review this section again. Happy to have finished the ES6 moduele. On to the next one tomorrow! 
+
+**Link to work**:
+1. [Javascript Algorithms & Data Structures: ES6] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
