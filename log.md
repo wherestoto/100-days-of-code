@@ -36,3 +36,9 @@
 
 **Link to work**:
 1. [Javascript Algorithms & Data Structures: ES6] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+
+### Day 5: May 28, 2021 (Fri)
+
+**Today's Progress**: Worked on html fonts to webpages. Principles of compatibility across different web broswers. Some browsers do not support flex-box.
+
+**Thoughts**: It's fun to learning new things every day.
