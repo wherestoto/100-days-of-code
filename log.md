@@ -42,3 +42,9 @@
 **Today's Progress**: Worked on html fonts to webpages. Principles of compatibility across different web broswers. Some browsers do not support flex-box.
 
 **Thoughts**: It's fun to learning new things every day.
+
+### Day 6: May 29, 2021 (Sat)
+
+**Today's Progress**: Worked on further changes to project with flexbox and other html tags. Learned about embedding files with iFrame, widgets, videos in html. 
+
+**Thoughts**: Getting hard to keep up with thing in addition to what I already do but determined to keep up the pace. 
