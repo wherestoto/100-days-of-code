@@ -49,7 +49,7 @@
 
 **Thoughts**: Getting hard to keep up with thing in addition to what I already do but determined to keep up the pace. 
 
-## Day 7: June 3, 2021 (Thurs)
+### Day 7: June 3, 2021 (Thurs)
 
 **Today's Progress**: Learned about CSS properties: transition, tranform, CSS animation, shadows.
 
