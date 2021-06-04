@@ -35,7 +35,7 @@
 **Thoughts**: My need to review this section again. Happy to have finished the ES6 moduele. On to the next one tomorrow!
 
 **Link to work**:
-1. [Javascript Algorithms & Data Structures: ES6] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+1. [Javascript Algorithms & Data Structures: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
 
 ### Day 5: May 28, 2021 (Fri)
 
