@@ -61,3 +61,31 @@
 
 **Thoughts**: Got back from vacation and need to make up for a few days.
 
+### Day 9: June 4, 2021 (Fri)
+
+**Today's Progress**: CSS animation features: Linear Gradients, Radial Gradients, Block Overflow, Keyframes, Animation Properties
+
+### Day 10: June 5, 2021 
+**Today's Progress**: Learned some extra details about creating forms on html and modifying them on CSS. Properties of input fields, labels, and submitting values. 
+
+**Thoughts**: Will use it to improve my forms for better user experience in my project.
+
+### Day 11: June 6, 2021 
+**Today's Progress**: Learned you can set default settings to forms and how to make inputs required in-line in html. 
+
+**Thoughts**: How do I juggle learning new material and contributing to work on projects? 
+
+### Day 12: June 7, 2021 
+**Today's Progress**: Learned about cross-browser support for form placeholder properties, form handlers, best ways to organize files in a complex project with BEM, and learned some helpful command line & git properties I didn't know.
+
+**Thoughts**: Glad to learn principles of organizing software project folders and code. I've been trying to innovate my own way of organzing, but BEM makes things much simpler. I'm definitley more comfortable dealing with local environments and the terminal.
+
+### Day 13: June 8, 2021 
+**Today's Progress**: Reorganized files in a project to improve downstream dev & stay DRY. It also let me practice using terminal & git commands from Day 12. I read & walked away forgetting zsh vs bash vs vim for the 2nd time. 
+
+**Thoughts**: Self-care will help me perform consistently every day. Slowly but surely. Hopefully, I can return to freeCodeCamp lessons.
+
+### Day 14: June 9, 2021
+**Today's Progress**: worked on additional features on project. 
+
+**Thoughts**: stuck on figuring out an overlap feature. 
